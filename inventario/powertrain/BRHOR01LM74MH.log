@@ -1,0 +1,56 @@
+============================================
+
+Configuração de IP:
+
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : mmemea.marelliad.net
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : mmemea.marelliad.net
+   IPv4 Address. . . . . . . . . . . : 139.128.139.165
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 139.128.139.1
+
+Ethernet adapter Ethernet 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+============================================
+
+Informações do Sistema:
+
+Host Name:                 BRHOR01LM74MH
+OS Name:                   Microsoft Windows 11 Enterprise
+System Manufacturer:       HP
+System Model:              HP EliteBook 640 14 inch G9 Notebook PC
+
+============================================
+
+Softwares:
+
+CrowdStrike Device Control                                          
+CrowdStrike Sensor Platform                                         
+CrowdStrike Firmware Analysis                                       
